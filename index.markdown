@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Go to the SplatTour Thesis ](/splattour)
