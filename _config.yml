@@ -20,12 +20,10 @@
 
 title: Fries Boury
 email: fries.boury@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a github page for the paper "Radiance Field Rendering in Virtual Tours" by Fries Boury for obtaining the Master in Game Technology at Breda University of Applied Sciences.
 # baseurl: /3dgs_virtualtours # the subpath of your site, e.g. /blog
 domain: friesboury.github.io
 url: friesboury.github.io # the base hostname & protocol for your site, e.g. http://example.com
-linkedin: friesboury
+linkedin_username: friesboury
 github_username:  FriesBoury
 
 # Build settings

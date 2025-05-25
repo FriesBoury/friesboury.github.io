@@ -13,8 +13,8 @@ permalink: /splattour/
 <div style="text-align: center; margin: 20px 0;">
   <a href="https://www.google.com" class="button"><i class="fas fa-file-pdf"></i> Paper</a>
   <a href="https://www.google.com" class="button"><i class="fas fa-image"></i> Poster</a>
-  <a href="https://www.google.com" class="button"><i class="fab fa-github"></i> Repository</a>
-  <a href="https://www.google.com" class="button"><i class="fas fa-play-circle"></i> Demos</a>
+  <a href="https://github.com/DAE-FriesB/Unity_SplatTour" class="button"><i class="fab fa-github"></i> Repository</a>
+  <a href="https://friesboury.com" class="button"><i class="fas fa-play-circle"></i> Demos</a>
 </div>
 
 <style>
