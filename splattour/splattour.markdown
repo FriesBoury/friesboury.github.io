@@ -9,12 +9,11 @@ permalink: /splattour/
   <strong>Fries Boury</strong> — Master Thesis in Game Technology, Breda University of Applied Sciences
 </p>
 
-
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://www.google.com" class="button"><i class="fas fa-file-pdf"></i> Paper</a>
-  <a href="https://www.google.com" class="button"><i class="fas fa-image"></i> Poster</a>
-  <a href="https://github.com/DAE-FriesB/Unity_SplatTour" class="button"><i class="fab fa-github"></i> Repository</a>
-  <a href="https://friesboury.com" class="button"><i class="fas fa-play-circle"></i> Demos</a>
+  <a href="https://www.google.com" target="blank" class="button" style="pointer-events: none; opacity: 0.5;"><i class="fas fa-file-pdf"></i> Paper</a>
+  <a href="https://www.researchgate.net/publication/392200164" target="blank" class="button"><i class="fas fa-image"></i> Poster</a>
+  <a href="https://github.com/DAE-FriesB/Unity_SplatTour" target="blank" class="button"><i class="fab fa-github"></i> Repository</a>
+  <a href="https://friesboury.com" target="blank" class="button"><i class="fas fa-play-circle"></i> Demos</a>
 </div>
 
 <style>
@@ -29,12 +28,19 @@ permalink: /splattour/
   border-radius: 5px;
   transition: background-color 0.3s ease;
 }
+.button:visited {
+  color: white;
+}
+.button:visited:hover {
+  color: #111;
+}
 .button:hover {
   background-color: #005f99;
 }
 .button i {
   margin-right: 8px;
 }
+
 </style>
 
 ## **Abstract**
