@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fries Boury
+title: 3DGS Virtual Tours by Fries Boury
 email: fries.boury@hotmail.com
+author: Fries Boury
+Description: "A collection of projects and virtual tours made with 3DGS"
 # baseurl: /3dgs_virtualtours # the subpath of your site, e.g. /blog
 domain: friesboury.github.io
 url: friesboury.github.io # the base hostname & protocol for your site, e.g. http://example.com

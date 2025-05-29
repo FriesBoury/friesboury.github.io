@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[Go to the SplatTour Thesis ](/splattour)
+[Go to the Research Page for "Optimizing Radiance Field Rendering for Web-Based Virtual Tours: A Two-Phased Approach"](/splattour)

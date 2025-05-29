@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SplatTour - Radiance Field Rendering in Virtual Tours
+title: "Optimizing Radiance Field Rendering for Web-Based Virtual Tours: A Two-Phased Approach"
 permalink: /splattour/
 ---
 {% include fontawesome.html %}
